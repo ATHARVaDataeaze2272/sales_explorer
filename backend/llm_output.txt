@@ -1,0 +1,151 @@
+```json
+{
+  "Common_Fields": {
+    "Excluded_Countries": "Africa, Russia, Ukraine, Belarus, Central Asia, South Asia, China",
+    "Target_Job_Titles": [
+      "Chief Information Officer",
+      "Chief Digital Officer",
+      "VP / Head / Director of Technology",
+      "VP / Head / Director of Digital Strategy",
+      "VP / Head / Director of Commerce",
+      "VP / Head / Director of Enterprise",
+      "VP / Head / Director of IT Strategy",
+      "VP / Head / Director of New Services",
+      "VP / Head / Director of Innovation",
+      "VP / Head / Director of Business Support Systems (BSS)",
+      "VP / Head / Director of Customer Experience / Engagement",
+      "VP / Head / Director of Commercial",
+      "VP / Head / Director of Revenue",
+      "VP / Head / Director of Monetization",
+      "VP / Head / Director of Digital Transformation",
+      "VP / Head / Director of Wholesale and Roaming"
+    ],
+    "Company_Main_Activities": "AGRITECH/AGRIFOOD, FINANCE/BANKING/INSURANCE, MEDIA/ENTERTAINMENT - GAMING/VIRTUAL REALITY/AR, APP/SOFTWARE DEVELOPMENT, GOVERNMENT/REGULATORY BODIES, MOBILE NETWORK OPERATOR, ASSOCIATION/NOT-FOR-PROFIT, HEALTHCARE/BIOTECH/PHARMA, MOBILE VIRTUAL NETWORK OPERATOR, AUTOMOTIVE/TRANSPORTATION, INFORMATION/ANALYTICS/BUSINESS INFORMATION, NETWORK INFRASTRUCTURE VENDOR, CLOUD SERVICES, IOT/M2M, OTHER, CONSULTANCY, MANUFACTURING - DEVICES & WEARABLES, RETAIL/E-COMMERCE, CYBERSECURITY/CONTROLS/DATA SECURITY, MANUFACTURING - IT/HARDWARE, SYSTEMS INTEGRATOR, EDUCATION/TRAINING, MANUFACTURING - SOFTWARE, VENTURE CAPITAL/INVESTMENT/M&A, EVENT COMPANY/EVENT SUPPORT",
+    "Companies_To_Exclude": "T-Mobile, Globe Telecom, MTN South Africa, LLA, A1 Group, DT Germany, Singtel",
+    "Business_Areas": "ADVISORY/STRATEGY/PLANNING/ PERFORMANCE, INFORMATION/DIGITAL /ANALYTICS, PRESS/MEDIA, BUSINESS DEVELOPMENT/SALES/ PRODUCT MGMT, INVESTMENT/VENTURE CAPITAL/M&A, RESEARCH/DEVELOPMENT /INNOVATION, CLIENT/CUSTOMER SERVICE, LEGAL/IP, SOFTWARE/DEVELOPER, CONTENT DEVELOPMENT/DISTRIBUTION, MANUFACTURING, SOURCING/PROCUREMENT, FINANCE/ACCOUNTING, MARKETING/ADVERTISING/PR, SUPPLY CHAIN MGMT/DISTRIBUTION, GOVERNMENT/REGULATORY, OPERATIONS MGMT, TECHNICAL/ENGINEERING, HR/TALENT/DIVERSITY, Other, TRAINING/EDUCATION",
+    "Key_Interests": "platform that serves as a digital business support system (BsS) for communications and media servicesprovidersthatisfocusedonhelpingenterprisesachievevaluablebusinessoutcomes"
+  },
+  "Target_Companies": [
+    {
+      "Company_Name": "AT&T",
+      "Country": "US"
+    },
+    {
+      "Company_Name": "Verizon",
+      "Country": "US"
+    },
+    {
+      "Company_Name": "Comcast",
+      "Country": "US"
+    },
+    {
+      "Company_Name": "Cox Communications",
+      "Country": "US"
+    },
+    {
+      "Company_Name": "Rogers",
+      "Country": "US"
+    },
+    {
+      "Company_Name": "Telenor Group",
+      "Country": "Europe"
+    },
+    {
+      "Company_Name": "Telia Group",
+      "Country": "Europe"
+    },
+    {
+      "Company_Name": "Tele2 Group",
+      "Country": "Europe"
+    },
+    {
+      "Company_Name": "Deutsche Telekom entities",
+      "Country": "Europe"
+    },
+    {
+      "Company_Name": "Yettel Bulgaria",
+      "Country": "Europe"
+    },
+    {
+      "Company_Name": "Orange",
+      "Country": "Europe"
+    },
+    {
+      "Company_Name": "SFR",
+      "Country": "Europe"
+    },
+    {
+      "Company_Name": "Bouygues",
+      "Country": "Europe"
+    },
+    {
+      "Company_Name": "KPN",
+      "Country": "Europe"
+    },
+    {
+      "Company_Name": "Telefonica",
+      "Country": "Europe"
+    },
+    {
+      "Company_Name": "Etisalat",
+      "Country": "Middle East"
+    },
+    {
+      "Company_Name": "Ooredoo",
+      "Country": "Middle East"
+    },
+    {
+      "Company_Name": "STC",
+      "Country": "Middle East"
+    },
+    {
+      "Company_Name": "Zain Group",
+      "Country": "Middle East"
+    },
+    {
+      "Company_Name": "Mobily",
+      "Country": "Middle East"
+    },
+    {
+      "Company_Name": "Telstra",
+      "Country": "Asia"
+    },
+    {
+      "Company_Name": "Vodafone",
+      "Country": "Asia"
+    },
+    {
+      "Company_Name": "Maxis",
+      "Country": "Asia"
+    },
+    {
+      "Company_Name": "Axiata",
+      "Country": "Asia"
+    },
+    {
+      "Company_Name": "Telenor Asia",
+      "Country": "Asia"
+    },
+    {
+      "Company_Name": "AIS",
+      "Country": "Asia"
+    },
+    {
+      "Company_Name": "True Corp",
+      "Country": "Asia"
+    },
+    {
+      "Company_Name": "CelcomDigi",
+      "Country": "Asia"
+    },
+    {
+      "Company_Name": "Telekom Malaysia",
+      "Country": "Asia"
+    },
+    {
+      "Company_Name": "Viettel",
+      "Country": "Asia"
+    }
+  ]
+}
+```

@@ -1,0 +1,9 @@
+/* Optional: Add minimal custom styles if needed */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Fix for CDN: Ensure Inter font is applied */
+body {
+  font-family: 'Inter', sans-serif;
+}
